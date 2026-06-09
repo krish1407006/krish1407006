@@ -1,6 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Krish!</h1>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ig-imanish&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </div>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
